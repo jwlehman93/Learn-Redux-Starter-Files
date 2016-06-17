@@ -1,3 +1,7 @@
+My own repo as I go through the Wes Bos class Learn-Redux
+
+
+
 # Learn Redux Starter files
 
 This repo includes the `learn-redux` folder which is where you will build your application as well as a number of partially finished `client` folder contents that correspond with the **start** of each video. These stepped folders should be used to reference or restore your application if things aren't working 100%.
